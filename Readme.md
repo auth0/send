@@ -166,9 +166,17 @@ var app = http.createServer(function(req, res){
 }).listen(3000);
 ```
 
-## License 
+## Issue Reporting
 
-[MIT](LICENSE)
+If you have found a bug or if you have a feature request, please report them at this repository issues section. Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/whitehat) details the procedure for disclosing security issues.
+
+## Author
+
+[Auth0](auth0.com)
+
+## License
+
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) file for more info.
 
 [npm-image]: https://img.shields.io/npm/v/send.svg?style=flat
 [npm-url]: https://npmjs.org/package/send
